@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://learnwithellie.spnss.com/sitemap.xml
